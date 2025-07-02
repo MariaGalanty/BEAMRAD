@@ -19,9 +19,9 @@ A tool to **evaluate the documentation quality** of existing datasets and assess
 ## 🤝 Contribute
 We **welcome all contributions** to improve and expand the BEAMRAD tool.  
 Feel free to:
-- ⭐ Star the repo
-- 🐛 Open issues
-- 💡 Suggest enhancements
+-  Star the repo
+-  Open issues
+-  Suggest enhancements
 
 ---
 
